@@ -7,6 +7,7 @@ n=gets.chomp.to_i
 
 puts "The first #{n} terms of Fibonacci series are:-"
 c=1
+getWindowInputFromUser = 0
 while(c<=n+1)
 	if(c<=1)
 		nxtTerm=c
