@@ -1,6 +1,6 @@
-var length = prompt("Enter a whole number for the length of your rectangle.");
-var width = prompt ("Enter a whole number for the width of your rectangle.");
+var length__of_rct_ = prompt("Enter a whole number for the length of your rectangle.");
+var widthofrect = prompt ("Enter a whole number for the width of your rectangle.");
 
-function area (length, width) {
-return length * width;
+function areaOfRectangle (length__of_rct_, widthofrect) {
+return length__of_rct_ * widthofrect;
 }
